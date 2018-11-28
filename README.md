@@ -1,8 +1,9 @@
-# flutterbasicanimations
+# Cat boop in box - Flutter animation 
 
-Learning flutter animations
+This project have propose to improve my skills about animations on flutter, fell free to use it.
 
-## Getting Started
+![Animation results](/animated.gif?raw=true "Cat boop in box from user interaction")
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## About it
+
+This is just a simple example showing how to make animations on flutter starting from user interaction
